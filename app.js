@@ -1,4 +1,5 @@
 // Add New Features
+//Ternary Operator
 function getFee(isMember) {
     return isMember ? '$2.00' : '$10.00';
 }
@@ -21,11 +22,4 @@ console.log(getFee(null));
 //     console.log('condition true');
 // }
 
-// ==
-// !=
-// !==
-// ===
-// >
-// <
-// <=
-// =>
+
